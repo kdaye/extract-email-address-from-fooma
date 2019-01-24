@@ -29,4 +29,7 @@ for link in detailslink:
     else:
         print('None')
         
+f.close()
+print('Done')
+        
 
